@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Queue Manager",
+  "namespace": "",
+  "sfdcLoginUrl": "https://santanderuk6-dev-ed.lightning.force.com",
+  "sourceApiVersion": "62.0"
+}
